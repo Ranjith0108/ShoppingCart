@@ -1,0 +1,14 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: "Apple Chancery", serif;
+}
+ul li{
+    list-style: none;
+}
+ul li span {
+    float: right;
+}
+ul  li{
+    border-bottom: 1px solid black;
+}
